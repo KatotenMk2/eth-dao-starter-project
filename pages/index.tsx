@@ -1,12 +1,10 @@
 import { ConnectWallet } from "@thirdweb-dev/react";
 import type { NextPage } from "next";
 import styles from "../styles/Home.module.css";
-import Head from '../components/head';
 
 const Home: NextPage = () => {
   return (
     <div className={styles.container}>
-      <Head/>
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to <a href="https://thirdweb.com/">thirdweb</a>!
