@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Head from 'next/head';
 
-export default (): JSX.Element => {
+export default function HeadComponent(): JSX.Element {
   return (
     <Head>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
