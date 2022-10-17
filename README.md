@@ -1,6 +1,6 @@
 # Create your DAO.
 
-![](public/ETH-banner-blur.png)
+![](public/banner.png)
 
 このコースを始めるには、下記のステップを実行してください。
 
