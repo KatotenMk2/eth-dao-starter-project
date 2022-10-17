@@ -1,26 +1,15 @@
-## Getting Started
+# Create your DAO.
 
-Create a project using this example:
+![](public/ETH-banner-blur.png)
 
-```bash
-npx thirdweb create --template next-typescript-starter
-```
+このコースを始めるには、下記のステップを実行してください。
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+1. あなたの Github アカウントにこのレポジトリをフォークしましょう。
 
-On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app to set up our React SDK.
+2. クローンしたレポジトリをあなたのローカル環境にダウンロードしましょう。
 
-## Learn More
+3. ターミナルを開き、ディレクトリのルートで `yarn install` を実行します。
 
-To learn more about thirdweb and Next.js, take a look at the following resources:
+4. `yarn dev` を実行してプロジェクトを開始します。
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb TypeScript Documentation](https://docs.thirdweb.com/typescript) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+5. コーディングを始めましょう。
